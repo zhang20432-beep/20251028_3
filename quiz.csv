@@ -1,0 +1,11 @@
+question,optionA,optionB,optionC,optionD,correctAnswer
+"p5.js 的主要用途是什麼？","後端開發","資料庫管理","創意編程與視覺藝術","作業系統",C
+"在 p5.js 中，哪個函數只會執行一次？","draw()","loop()","setup()","noLoop()",C
+"如何設定畫布的背景顏色為灰色？","background(220);","canvas(gray);","fill(220);","color(gray);",A
+"哪個函數用來繪製一個圓形？","rect()","triangle()","circle()","line()",C
+"如何停止 draw() 函數的連續執行？","stop()","noLoop()","endDraw()","break()",B
+"p5.js 中的 'mouseX' 變數代表什麼？","滑鼠的X軸速度","滑鼠的X軸座標","鍵盤按鍵代碼","滑鼠點擊次數",B
+"'createCanvas(400, 400)' 的作用是什麼？","建立一個按鈕","建立一個400x400的畫布","載入一張圖片","播放一段音訊",B
+"哪個 p5.js 函數用來繪製一條直線？","line()","rect()","ellipse()","point()",A
+"'fill(255, 0, 0)' 會將圖形的填充顏色設定為？","藍色","綠色","黑色","紅色",D
+"在 p5.js 中，如何讀取外部圖片檔案？","loadImage()","loadSound()","loadFont()","loadJSON()",A
